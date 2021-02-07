@@ -1,5 +1,6 @@
 # oyter-contactbook
 
+![Alt text](https://i.imgur.com/qBCGhIr.png "Contact book screenshot")
 ## Project setup
 ```
 npm install
