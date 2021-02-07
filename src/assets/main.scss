@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  min-width: 1400px;
+  padding: 4vh 2vw 2vh 2vw;
+  background: #fafafa;
+}
+#app {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+}
+.contact-list, .contact-filter {
+  background: #ffffff;
+  padding: 1em;
+  border-radius: 1em;
+  height: fit-content;
+}
+.contact-filter {
+  margin-right: 1em;
+  
+}
+
+
+
+

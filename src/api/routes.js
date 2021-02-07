@@ -1,0 +1,1 @@
+export const CONTACTS_ON_PAGE = (page,size) => `clients/?skip=${(page*size)}&take=${(size)}`;
