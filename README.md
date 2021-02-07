@@ -1,6 +1,9 @@
 # oyter-contactbook
 
+## Application screenshot
+### You can filter companies by inputing values in form on the left
 ![Alt text](https://i.imgur.com/qBCGhIr.png "Contact book screenshot")
+
 ## Project setup
 ```
 npm install
